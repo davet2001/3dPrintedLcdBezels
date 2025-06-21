@@ -1,4 +1,4 @@
-# LED display module Bezel
+# LED Display Module Bezel
 A 3D printable bezel for an sh1107 OLED display module.
 
 No screws required, clips in!
